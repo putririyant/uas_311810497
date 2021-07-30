@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/tambahScan"
+        android:title="Tambah Data Mahasiswa Melalui Scan QRCode"/>
+
+    <item android:id="@+id/tambahManual"
+        android:title="Tambah Data Mahasiswa Secara Manual "/>
+</menu>
